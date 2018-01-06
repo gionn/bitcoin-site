@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: Perché questo sito
+date:   2018-01-06 12:00:00 +0100
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Questo sito è nato dalle pressanti richieste di amici, colleghi e parenti su cosa sia questo dannato bitcoin.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Ho scritto questa breve guida per colmare questi dubbi, e rendere più facile l'ingresso a questo mondo per i neofiti.
