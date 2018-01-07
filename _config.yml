@@ -2,8 +2,9 @@ title: Guida a Bitcoin per neofiti
 email: aiuto-bitcoin@gionn.net
 description: >
   Guida rapida per conoscere Bitcoin e come si usa
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://comprare-bitcoin.info" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: "https://comprare-bitcoin.info"
+google_analytics: UA-107557-22
 
 # Build settings
 markdown: kramdown
